@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://rclcapital.com/superjp/sitemap.xml
+Sitemap: https://rclcapital.com/gilajp/sitemap.xml
+Sitemap: https://rclcapital.com/gojekpot/sitemap.xml
+Sitemap: https://rclcapital.com/winstrike69/sitemap.xml
+Sitemap: https://rclcapital.com/slotgacor/sitemap.xml
+Sitemap: https://rclcapital.com/slotzeus/sitemap.xml
+Sitemap: https://rclcapital.com/kaptenjackpot/sitemap.xml
+Sitemap: https://rclcapital.com/boosterjp/sitemap.xml
+Sitemap: https://rclcapital.com/kerajaanslot/sitemap.xml
+Sitemap: https://rclcapital.com/pakong86/sitemap.xml
+Sitemap: https://rclcapital.com/viral88/sitemap.xml
+Sitemap: https://rclcapital.com/clan4d/sitemap.xml
+Sitemap: https://rclcapital.com/dinamit4d/sitemap.xml
+Sitemap: https://rclcapital.com/elang212/sitemap.xml
+Sitemap: https://rclcapital.com/gori77/sitemap.xml
+Sitemap: https://rclcapital.com/viral4d/sitemap.xml
+Sitemap: https://rclcapital.com/playground88/sitemap.xml
